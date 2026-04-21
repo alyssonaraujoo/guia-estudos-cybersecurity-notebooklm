@@ -5,7 +5,7 @@ Este repositório contém um caderno temático focado em **Fundamentos de Cibers
 
 ## 📚 Curadoria de Fontes
 Para este projeto, foram utilizadas as seguintes fontes (disponíveis na pasta `/docs` deste repositório):
-* [Link ou Nome do PDF 1] - Ex: NIST Cybersecurity Framework
+* [[Link ou Nome do PDF 1](https://www.ibm.com/br-pt/think/topics/nist)] - Ex: NIST Cybersecurity Framework
 * [Link ou Nome do PDF 2] - Ex: OWASP Top 10 Guide
 * [Link ou Nome do PDF 3] - Ex: Guia de Redes Seguras (Cisco/CISA)
 
