@@ -3,6 +3,9 @@
 ## 📝 Contexto e Objetivos
 Este repositório contém um caderno temático focado em **Fundamentos de Cibersegurança**. O objetivo é utilizar a IA NotebookLM para sintetizar documentos técnicos e criar um material de consulta rápida para exames e certificações.
 
+## Link do NotebookLM
+(https://notebooklm.google.com/notebook/33a8f452-54c0-4520-94ca-adee28860c20)
+
 ## 📚 Curadoria de Fontes
 Para este projeto, foram utilizadas as seguintes fontes (disponíveis na pasta `/docs` deste repositório):
 * NIST Cybersecurity Framework - (https://www.ibm.com/br-pt/think/topics/nist)
