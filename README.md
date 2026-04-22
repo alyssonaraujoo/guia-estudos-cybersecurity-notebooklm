@@ -12,5 +12,5 @@ Para este projeto, foram utilizadas as seguintes fontes (disponíveis na pasta `
 ## 📖 Miniguia de Estudo
 📂 Materiais de Estudos
 
-📊 Baixar o Slide 
+📊 Baixar o Slide (https://github.com/alyssonaraujoo/guia-estudos-cybersecurity-notebooklm/blob/main/Slide.pdf)
 🛝 Baixar o Infográfico 
