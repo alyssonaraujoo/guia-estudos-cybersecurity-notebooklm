@@ -10,7 +10,8 @@ Para este projeto, foram utilizadas as seguintes fontes (disponíveis na pasta `
 * Guia de Redes Seguras (Cisco/CISA) - (https://www.tisec.com.br/cisa-revela-guia-para-abordagens-modernas-de-seguranca-de-acesso-a-rede/)
 
 ## 📖 Miniguia de Estudo
-📂 Materiais de Estudos
+ Materiais de Estudos
 
 📊 Baixar o Slide (https://github.com/alyssonaraujoo/guia-estudos-cybersecurity-notebooklm/blob/main/Slide.pdf)
-🛝 Baixar o Infográfico 
+
+🛝 Baixar o Infográfico (https://github.com/alyssonaraujoo/guia-estudos-cybersecurity-notebooklm/blob/main/Infogr%C3%A1fico.png)
